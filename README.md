@@ -1,5 +1,5 @@
 # MedicalDataVisualizer
-In this project, you will visualize and make calculations from medical examination data using matplotlib, seaborn, and pandas. 
+Visualize and make calculations from medical examination data using matplotlib, seaborn, and pandas. 
 Use the data to complete the following tasks in medical_data_visualizer.py:
 
 - Add an overweight column to the data. To determine if a person is overweight, first calculate their BMI by dividing their weight in kilograms by the square of their height in meters. If that value is > 25 then the person is overweight. Use the value 0 for NOT overweight and the value 1 for overweight.
